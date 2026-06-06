@@ -1,0 +1,16 @@
+OrderID,CustomerID,OrderDate,ProductCategory,ProductName,Quantity,UnitPrice,TotalAmount,PaymentMethod,Region
+1001,C001,2024-01-05,Laptop,Lenovo ThinkPad,1,900,900,Tarjeta,Norte
+1002,C002,2024-01-06,Smartphone,iPhone 13,2,799,1598,PayPal,Sur
+1003,C003,2024-01-07,Accesorios,Mouse Logitech,3,25,75,Tarjeta,Oeste
+1004,C004,2024-01-08,Laptop,Dell XPS 13,1,1100,1100,Transferencia,Este
+1005,C002,2024-01-09,Accesorios,Teclado Mecánico,1,80,80,Tarjeta,Sur
+1006,C005,2024-02-01,Smartphone,Samsung Galaxy S22,1,750,750,PayPal,Norte
+1007,C006,2024-02-02,Accesorios,Auriculares Sony,2,120,240,Tarjeta,Oeste
+1008,C007,2024-02-03,Laptop,HP Pavilion,1,650,650,Transferencia,Este
+1009,C008,2024-02-04,Smartphone,Google Pixel 7,1,700,700,Tarjeta,Norte
+1010,C009,2024-02-05,Accesorios,Webcam Logitech,1,60,60,PayPal,Sur
+1011,C001,2024-03-01,Laptop,Lenovo ThinkPad,1,900,900,Tarjeta,Norte
+1012,C010,2024-03-02,Smartphone,iPhone 13,1,799,799,Transferencia,Oeste
+1013,C011,2024-03-03,Accesorios,Mouse Logitech,2,25,50,Tarjeta,Este
+1014,C012,2024-03-04,Laptop,Dell XPS 13,1,1100,1100,PayPal,Sur
+1015,C013,2024-03-05,Accesorios,Teclado Mecánico,1,80,80,Tarjeta,Norte
